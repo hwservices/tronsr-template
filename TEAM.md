@@ -1,7 +1,7 @@
 ## US
 
-Name: Gleb
-Role: Software Solutions Architect, Founder
+* **Gleb**
+* Software Solutions Architect, Founder
 
 Gleb has background Computer Science and over 10 years of full-time software development experience in
 Silicon Valley. He has been involved in projects with big data, predictive modeling, AWS, software architecture,
@@ -10,8 +10,8 @@ startups.
 
 ## Argentina
 
-Name: Juan Manuel
-Role: Project Manager, Software
+* **Juan Manuel**
+* Project Manager, Software
 
 Juan Manual has background in both business administration and software development and helps Hello World
 as a project manager in Buenos Aires. With Argentina's fiat currency in the downward spiral, there is a growing
@@ -20,8 +20,8 @@ crypto-currency.
 
 ## Bulgaria
 
-Name: Rado
-Role: Managing Director, Cloud Architect
+* **Rado**
+* Managing Director, Cloud Architect
 
 Rado has a Master's degree in Information Technology and manages a partner company with a team of over 20 developers
 in Sofia, Bulgaria.
@@ -37,8 +37,8 @@ full-life-cycle services to provision, run and support the infrastructure.
 
 ## Russia
 
-Name: Dmitry
-Role: Business/Investor Relations
+* **Dmitry**
+* Business/Investor Relations
 
 Dmitry has held executive positions in largest Russian oil and gas companies, and helps Hello World with investor
 and business relations across the globe. He is a frequent visitor to Beijing, China, South America, UK and the US.
