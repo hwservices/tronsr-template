@@ -1,6 +1,6 @@
 ## US
 
-> **Gleb**<br>
+> **Gleb**<br/>
 > *Software Solutions Architect, Founder*
 
 Gleb has background Computer Science and over 10 years of full-time software development experience in
@@ -10,7 +10,7 @@ startups.
 
 ## Argentina
 
-> **Juan Manuel**<br>
+> **Juan Manuel**<br/>
 > *Project Manager, Software*
 
 Juan Manual has background in both business administration and software development and helps Hello World
@@ -20,7 +20,7 @@ crypto-currency.
 
 ## Bulgaria
 
-> **Rado**<br>
+> **Rado**<br/>
 > *Managing Director, Cloud Architect*
 
 Rado has a Master's degree in Information Technology and manages a partner company with a team of over 20 developers
@@ -37,7 +37,7 @@ full-life-cycle services to provision, run and support the infrastructure.
 
 ## Russia
 
-> **Dmitry**<br>
+> **Dmitry**<br/>
 > *Business/Investor Relations*
 
 Dmitry has held executive positions in largest Russian oil and gas companies, and helps Hello World with investor
