@@ -7,6 +7,18 @@ Silicon Valley. He has been involved in projects with big data, predictive model
 and provided consulting and software development services for major software companies, and over a dozen different
 startups.
 
+**Todd** | *Business Development*
+
+Todd is an accomplished business and sales executive and has worked at Fortune 500 technology companies, like Oracle
+and Xerox and is actively involved in startup projects. Todd is interested in developing a business relations with
+other teams running for SR and helping Hello World build community and investor relations.
+ 
+**Martin** | *Compliance Advisor*
+
+Martin has a JD from Brooklyn Law School and specializes in Intellectual Property and Privacy law. He is a blockchain
+enthusiast and is concentrating on helping early stage companies to stay in compliance with federal and state laws
+involving blockchain, crypto, and ICO.
+
 ## Argentina
 
 **Juan Manuel** | *Project Manager, Software*
@@ -31,12 +43,5 @@ development methodologies and project management, cloud services, based on Amazo
 We are a certified AWS Consulting Partner. With our Cloud AWS Managed Services we help businesses automate
 common activities such as change requests, monitoring, patch management, security, and backup services, and provide
 full-life-cycle services to provision, run and support the infrastructure.
-
-## Russia
-
-**Dmitry** | *Business and Investor Relations*
-
-Dmitry has a PhD in economics and has held executive positions in largest Russian oil and gas companies. He helps Hello World with investor
-and business relations across the globe. He is a frequent visitor to Beijing, China, South America, UK and the US.
 
 
