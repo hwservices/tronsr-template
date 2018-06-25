@@ -7,7 +7,7 @@ We have presence in:
 
 | | |
 |:--------|-------|
-|**US**| California, Florida |
+|**US**| California, Florida, New York |
 |**Argentina**       | Buenos Aires |
 |**Bulgaria** | Sofia |
 |**Russia** | Moscow, St. Petersburg|
@@ -21,5 +21,6 @@ We would like to offer our support, software development and IT expertise to the
 
 ## Links
 
-* https://helloworld.services/about
-* https://rnd-solutions.net/management
+* https://helloworldteam.org
+* t.me/helloworld_official
+* t.me/helloworld_community
