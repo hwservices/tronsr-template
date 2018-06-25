@@ -22,5 +22,5 @@ We would like to offer our support, software development and IT expertise to the
 ## Links
 
 * https://helloworldteam.org
-* t.me/helloworld_official
-* t.me/helloworld_community
+* https://t.me/helloworld_official
+* https://t.me/helloworld_community
