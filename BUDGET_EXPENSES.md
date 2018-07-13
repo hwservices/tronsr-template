@@ -1,7 +1,6 @@
-* 40% IT support
+* 50% IT and dApps development
 * 10% operating costs
 * 10% lottery
-* 10% dApps development
 * 20% back to the community
 * 10% reserved
 
