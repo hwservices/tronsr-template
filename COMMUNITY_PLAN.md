@@ -13,7 +13,7 @@ TRON community.
 
 ## 10% Community Sweepstakes
 
-We are excited to announce a lottery to celebrate TRON’s Independence Day. 10% of the rewards will be distributed to a randomly picked wallet every month.
+We are excited to announce community sweepstakes to celebrate TRON’s Independence Day. 10% of the rewards will be distributed to a randomly picked wallet every month.
 No purchase or votes are required to enter. You can send us your wallet id to participate in the sweepstakes on telegram: https://t.me/helloworld_community.
 
 ## 20% Back to community
