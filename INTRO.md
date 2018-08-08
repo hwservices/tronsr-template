@@ -17,8 +17,6 @@ With the emergence of the blockchain technology, we see a new world of possibili
 
 Тhe ICO model is increasingly popular with the Silicon Valley startups, and many companies seek a platform that would support smart contracts, provide inexpensive transactions, be scalable and reliable in addition to offering de-centralized applications.
 
-We would like to offer our support, software development and IT expertise to the TRON foundation and become one of its SR.
-
 ## Links
 
 * https://helloworldteam.org
